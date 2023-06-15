@@ -1,1 +1,5 @@
-
+{
+   "proto":[
+         {"source":"source/dir/public/file3.proto","target":"target/dir/new/public/file3.proto", "patch": false}
+   ]
+}
